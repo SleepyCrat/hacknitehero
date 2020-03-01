@@ -23,5 +23,7 @@ namespace HeroProject.Web.Controllers
         {
             return _dataService.GetHeros();
         }
+
+        
     }
 }
